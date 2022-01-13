@@ -8,4 +8,4 @@
     <li>Contar somente números negativos.</li>
 </ul>
 
-<img src='assets/image/imagem_projeto_finalizado.jpg'>
+<img src='assets/image/imagem_projeto_finalizado.JPG'>
